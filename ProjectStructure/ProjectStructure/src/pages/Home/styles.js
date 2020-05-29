@@ -1,0 +1,1 @@
+//Arquivo destinado para o styled-component

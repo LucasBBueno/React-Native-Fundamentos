@@ -1,0 +1,1 @@
+Diretório destinado para os componentes da aplicação que serão utilizados em mais de um local. Seguindo por padrão um arquivo com o nome do compoenente (button.js) para o JSX e styles.js para style-component.

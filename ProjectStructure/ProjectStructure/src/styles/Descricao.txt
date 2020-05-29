@@ -1,0 +1,1 @@
+Diretório destinado para arquivos de estilo que podem ser reutilizados durante a aplicação

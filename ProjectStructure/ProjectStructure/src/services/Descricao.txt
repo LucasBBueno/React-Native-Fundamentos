@@ -1,0 +1,1 @@
+Diretório destinado a classes/função que fornece algum serviço para a aplicação, como a comunicação com uma API (api.js)

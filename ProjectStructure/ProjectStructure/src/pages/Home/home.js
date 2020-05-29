@@ -1,0 +1,1 @@
+//Arquivo destinado para o JSX do componente

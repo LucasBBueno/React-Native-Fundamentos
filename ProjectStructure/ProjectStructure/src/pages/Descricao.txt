@@ -1,0 +1,1 @@
+Diretório destinado para os componentes que representaram uma página dentro da aplicação. Parar cada página terá o seu respectivo arquivo js (home.js) e o seu style-component styles.js

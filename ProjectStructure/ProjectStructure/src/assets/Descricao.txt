@@ -1,0 +1,1 @@
+Diretório destinado para armazenar os arquivos que são estáticos na aplicação, como arquivos png, gif e etc.

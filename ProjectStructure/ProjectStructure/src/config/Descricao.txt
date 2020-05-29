@@ -1,0 +1,1 @@
+Diretório destinado para arquivos de configuração a serem utilizados na aplicação.
