@@ -1,2 +1,2 @@
 # React-Native-Estudos
-Repositório para estudo e aprofundamento no React Native
+Dedicated repository for studying and deepening React Native and its components.
